@@ -1,2 +1,2 @@
 # fcc-ml
-freeCodeCamp Machine Learning with Python Projects
+freeCodeCamp Machine Learning with Python, projects
